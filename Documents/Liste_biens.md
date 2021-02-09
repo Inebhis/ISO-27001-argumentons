@@ -11,5 +11,5 @@ Ordinateur Portable | Développeur
 *Logiciel*
 Ensemble de moyens | Responsable
 ---- | ----
-BDD | OVH
+BDD | Développeur
 Dépôt github | Développeur
